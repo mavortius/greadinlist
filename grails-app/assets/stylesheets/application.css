@@ -7,8 +7,8 @@
 * You're free to add application-wide styles to this file and they'll appear at the top of the
 * compiled file, but it's generally better to create a new file per style scope.
 *
-*= require /webjars/bootswatch-flatly/3.3.7/css/bootstrap.min
-*= require /webjars/bootswatch-flatly/3.3.7/css/bootstrap-theme.min
+*= require /webjars/bootswatch-spacelab/3.3.7/css/bootstrap.min
+*= require /webjars/bootswatch-spacelab/3.3.7/css/bootstrap-theme.min
 *= require /webjars/font-awesome/4.7.0/css/font-awesome.min
 *= require mobile
 *= require_self

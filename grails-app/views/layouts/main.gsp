@@ -11,7 +11,7 @@
     <asset:stylesheet src="application.css"/>
     <g:layoutHead/>
 </head>
-<body>
+<body style="padding-top: 10px;">
 <div class="container">
     <g:layoutBody/>
 </div>

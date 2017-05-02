@@ -5,7 +5,7 @@
     <title>Reading List</title>
 </head>
 <body>
-<div class="panel panel-default">
+<div class="panel panel-primary">
     <div class="panel-heading">
         <p class="panel-title">Your Reading List</p>
     </div>
@@ -39,7 +39,7 @@
         <g:if test="${errors}">
             <div class="alert alert-danger" role="alert">${message}</div>
         </g:if>
-        <div class="panel panel-default">
+        <div class="panel panel-primary">
             <div class="panel-heading">
                 <p class="panel-title">Add a book</p>
             </div>
@@ -72,7 +72,8 @@
                     </div>
                     <div class="form-group">
                         <div class="col-sm-offset-2 col-sm-10">
-                            <button type="submit" class="btn btn-default">
+                            <button type="submit" class="btn btn-primary">
+                                <span class="glyphicon glyphicon-plus-sign"></span>
                                 Create
                             </button>
                         </div>

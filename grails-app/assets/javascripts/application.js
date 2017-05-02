@@ -6,7 +6,7 @@
 // to create separate JavaScript files as needed.
 //
 //= require /webjars/jquery/3.2.0/jquery.min
-//= require /webjars/bootswatch-flatly/3.3.7/js/bootstrap.min
+//= require /webjars/bootswatch-spacelab/3.3.7/js/bootstrap.min
 //= require_tree .
 //= require_self
 
